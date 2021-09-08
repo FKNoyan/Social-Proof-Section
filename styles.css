@@ -1,0 +1,44 @@
+h1 {
+    color: hsl(300, 43%, 22%);
+    font-weight: bold;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.container {
+    width: 70% !important;
+}
+
+.right-container {
+    width: 100%;
+}
+
+.left-col-items {
+    padding-right: 10% !important;
+}
+
+.star-row {
+    background-color: lightgray;
+}
+
+.bottom-col {
+    background-color: hsl(300, 43%, 22%);
+}
+
+.col-lg-6 {
+    padding: 5% 0%;
+}
+
+.bottom-row p {
+    color: white;
+    padding
+}
+
+.bottom-col {
+    padding: 5% 0%;
+}
+
+.col-lg-4 {
+}
